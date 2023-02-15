@@ -1,4 +1,4 @@
-This project is done for a wholesale bakery.  The bakery offers 40+ types of bread prepared fresh on a daily bases.  Customers place their order by 12pm.  After the cut-off time, the operation staff must compile all orders and calculate the appropriate recipes for the production staff.  Production staff will then organize and arrange tasks amongst the team.
+This project was done for a wholesale bakery.  The bakery offers 40+ types of bread prepared fresh on a daily bases.  Customers place their order by 12pm.  After the cut-off time, the operation staff must compile all orders and calculate the appropriate recipes for the production staff.  Production staff will then organize and arrange tasks amongst the team.
 
 There are a few challenges with this workflow.
 1. Due to the amount of products offered, it takes the staff a while to generate all recipes even when there are excel formula already set up.
